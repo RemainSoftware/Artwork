@@ -1,10 +1,10 @@
 # Remain Software Artwork and Trademarks
 
-## Policy
+# Policy
 Please note that the content hosted here is intellectual property of Remain BV, Nieuwegein ("Remain").
 Usage of this content ("Trademarks") is outlined in the [POLICY.MD](POLICY.MD) file.
 
-## Remain Software
+# Remain Software
 Remain Software's main logo is an artistic impression of the Triscle, an ancient symbol depicting the perpetuate cycle of life.
 
 <img src="https://github.com/RemainSoftware/Artwork/raw/master/Remain/remainlogo128x128.png" width="128"/>
@@ -13,7 +13,7 @@ The logo may include the words Remain and Software as follows:
 
 <img src="https://github.com/RemainSoftware/Artwork/raw/master/Remain/remainlogo_with_text.png" width="128"/>
 
-## Gravity
+# Gravity
 The full logo of Remain's workflow solution contains three main elements. The first Element is the word "Gravity". The G is an artistic expression of an arrow indicating a cycle in a workflow.
 
 <img src="https://github.com/RemainSoftware/Artwork/blob/master/Gravity/gravity_words.svg" width="128"/>
@@ -34,9 +34,18 @@ The complete Gravity logo with all elements combined is depicted below.
 
 <img src="https://github.com/RemainSoftware/Artwork/blob/master/Gravity/gravity_full.svg" width="128"/>
 
+# OpenAPI Studio
+The OpenAPI studio logo is made out of two styled "curly brackets", indicating a JSon object and a styled "3" indicating support for the OAS3 specification. Please note that there is a white outline in the "3" that is not visible on a white background.
+
+<img src="https://github.com/RemainSoftware/Artwork/blob/master/OpenAPI/OAS3.svg" width="128"/>
+<img src="https://github.com/RemainSoftware/Artwork/blob/master/OpenAPI/OAS3_bg_fill.svg" width="128"/>
+
+Launcher icons (used as an icon to start a program) are combined of a dark blue circle with the styled "3" in white. The "3" looks fatter in this image because of the now visible outline.
+
+<img src="https://github.com/RemainSoftware/Artwork/blob/master/OpenAPI/oas3launcher.svg" width="128"/>
 
 
-## Colors
+# Colors
 The colors used by the Trademarks are:
 
 ![Colors](colors.png)
@@ -60,7 +69,3 @@ The colors used by the Trademarks are:
 #### Orange
 * #ff8c00
 * 255, 140, 0
- 
-
-
-
