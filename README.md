@@ -1,8 +1,20 @@
 # Remain Software Artwork and Trademarks
 
 ## Policy
-Please note that the content hosted here is intelectual property of Remain BV, Nieuwegein ("Remain").
+Please note that the content hosted here is intellectual property of Remain BV, Nieuwegein ("Remain").
 Usage of this content ("Trademarks") is outlined in the [POLICY.MD](POLICY.MD) file.
+
+## Remain Software
+Remain Software's main logo is an artistic impression of the Triscle, an ancient symbol depicting the perpetuate cycle of life.
+
+<img src="https://github.com/RemainSoftware/Artwork/raw/master/Remain/remainlogo128x128.png" width="128"/>
+
+The logo may include the words Remain and Software as follows:
+
+<img src="https://github.com/RemainSoftware/Artwork/raw/master/Remain/remainlogo_with_text.png" width="128"/>
+
+
+
 
 ## Colors
 The colors used by the Trademarks are:
