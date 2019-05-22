@@ -63,9 +63,9 @@ do so by sending an email to info@remainsoftware.com.
 Unless otherwise agreed to in advance in writing (which may be in email form) by 
 Remain, the following restrictions apply:
 
-    You may not incorporate the Trademark into the name of your company or
-    software product name. If you have a software product that works with Remain
-    technology without written permission.
+You may not incorporate the Trademark into the name of your company or
+software product name. If you have a software product that works with Remain
+technology without written permission.
     
-    You may not include the Trademark in the name of a publication, certification
-    program, domain name or book. 
+You may not include the Trademark in the name of a publication, certification
+program, domain name or book. 
