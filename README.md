@@ -7,6 +7,8 @@ Usage of this content ("Trademarks") is outlined in the POLICY.MD file.
 ## Colors
 The colors used by the Trademarks are:
 
+![Colors](colors.png)
+
 #### Dark Blue
 * #003F70
 * 0,63,112
