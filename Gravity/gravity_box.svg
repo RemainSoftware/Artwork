@@ -1,15 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
-              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="3.34in" height="0.826667in"
-     viewBox="0 0 1002 248">
-  <path id="Selection"
-        fill="none" stroke="black" stroke-width="1"
-        d="M 806.00,17.00
-           C 806.00,17.00 806.00,197.00 806.00,197.00
-             806.00,197.00 995.00,197.00 995.00,197.00
-             995.00,197.00 995.00,17.00 995.00,17.00
-             995.00,17.00 806.00,17.00 806.00,17.00 Z" />
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.63333344in"
+   height="0.60333341in"
+   viewBox="0 0 190.00004 180.99995"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="box.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1279"
+     inkscape:window-height="595"
+     id="namedview5"
+     showgrid="false"
+     inkscape:zoom="3.5429143"
+     inkscape:cx="-34.075948"
+     inkscape:cy="14.102885"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     id="Selection"
+     d="m 0.5,0.5 c 0,0 0,180 0,180 0,0 189,0 189,0 0,0 0,-180 0,-180 0,0 -189,0 -189,0 z"
+     style="fill:#c8c442;fill-opacity:1;stroke:#000000;stroke-width:1"
+     inkscape:connector-curvature="0" />
 </svg>
