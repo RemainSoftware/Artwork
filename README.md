@@ -46,7 +46,7 @@ Launcher icons (used as an icon to start a program) are combined of a dark blue 
 
 
 # Colors
-The colors used by the Trademarks are:
+Besides black and white, the colors used by Remain and the Trademarks are:
 
 ![Colors](colors.png)
 
