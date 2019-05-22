@@ -7,24 +7,26 @@ Usage of this content ("Trademarks") is outlined in the POLICY.MD file.
 ## Colors
 The colors used by the Trademarks are:
 
-####Bright Blue
-#3066BE 
-48,102,190
+#### Dark Blue
+ #003F70
+ 0,63,112
  
-####Logo Color
-#c8c442
-200,196,66
+#### Bright Blue
+ #3066BE 
+ 48,102,190
  
-####Dark Blue (the color on the top of the flyers)
-#003F70
-0,63,112
+#### Light Blue
+ #b7d3e2
+ 183, 211, 226
  
-####Orange
-#ff8c00
-255, 140, 0
+#### Logo Color
+ #c8c442
+ 200,196,66
  
-####Light Blue
-#b7d3e2
-183, 211, 226
+#### Orange
+ #ff8c00
+ 255, 140, 0
+ 
+
 
 
