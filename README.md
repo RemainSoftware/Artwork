@@ -22,7 +22,7 @@ The second element is a box with the logo color, indicating a defined process. T
 
 <img src="https://github.com/RemainSoftware/Artwork/blob/master/Gravity/gravity_box.svg" width="128"/>
 
-The third element, the "G" of "Gravity" but this time it is rotated. When this arrow is used on it's own its color is the log color. It can be used for icons and such.
+The third element, the "G" of "Gravity" but this time it is rotated. When this arrow is used on it's own its color is the logo color. It can be used for icons and such.
 
 <img src="https://github.com/RemainSoftware/Artwork/blob/master/Gravity/gravity_arrow.svg" width="128"/>
 
