@@ -2,7 +2,7 @@
 
 ## Policy
 Please note that the content hosted here is intelectual property of Remain BV, Nieuwegein ("Remain").
-Usage of this content ("Trademarks") is outlined in the [POLICY.MD] (POLICY.MD) file.
+Usage of this content ("Trademarks") is outlined in the [POLICY.MD](POLICY.MD) file.
 
 ## Colors
 The colors used by the Trademarks are:
