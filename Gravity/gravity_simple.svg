@@ -7,16 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="0.62999982in"
+   width="0.62999976in"
    height="0.60000008in"
-   viewBox="0 0 188.99995 179.99995"
+   viewBox="0 0 188.99993 179.99995"
    version="1.1"
    id="svg3"
-   sodipodi:docname="simple logo.svg"
+   sodipodi:docname="gravity_simple.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   inkscape:export-filename="C:\Users\jongw\Pictures\Logos\remain\Gravity\gravity.png"
-   inkscape:export-xdpi="119.75802"
-   inkscape:export-ydpi="119.75802">
+   inkscape:export-filename="C:\Users\jongw\Pictures\Logos\remain\Gravity\gravity_simple.png"
+   inkscape:export-xdpi="476.19"
+   inkscape:export-ydpi="476.19">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -60,9 +60,9 @@
      inkscape:window-height="696"
      id="namedview5"
      showgrid="false"
-     inkscape:zoom="1.7714571"
-     inkscape:cx="-160.75648"
-     inkscape:cy="44.325493"
+     inkscape:zoom="0.88572855"
+     inkscape:cx="362.97802"
+     inkscape:cy="-164.25126"
      inkscape:window-x="49"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -75,10 +75,10 @@
      inkscape:connector-curvature="0"
      style="fill:#c8c442;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
      id="Selection"
-     d="m 0,0 c 0,0 0,180 0,180 0,0 188.99992,0 188.99992,0 0,0 0,-180 0,-180 C 188.99992,0 0,0 0,0 Z" />
+     d="m 0,0 c 0,0 0,180 0,180 0,0 188.9999,0 188.9999,0 0,0 0,-180 0,-180 C 188.9999,0 0,0 0,0 Z" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
      id="Selection #2"
-     d="m 20.59528,15.23999 c 0,0 0,-7.000004 0,-7.000004 0,0 -14,0 -14,0 0,0 0,38.000002 0,38.000002 0,0 38,0 38,0 0,0 0,-12.999997 0,-12.999997 0,0 -23,0 -23,0 3.45,-5.510001 5.8,-8.350001 12,-10.910001 12.3,-5.07 28.13,-3.71 36.35,7.910001 2.68004,3.78 3.53004,7.459997 3.64004,11.999997 0.32,13.54 -6.92004,24.11 -20.99004,25.82 -5.81,0.7 -12.75,0.25 -18,-2.49 -4.27,-2.23 -6.33,-5.24 -10,-5.98 0,0 -18,1.65 -18,1.65 3.72,9.5 13.43,15.75 23,18.36 16.61,4.530004 40.08,3.440004 52.82004,-9.53 16.57,-16.88 12.54,-48.049998 -8.82,-59.010002 -5.98004,-3.07 -15.28004,-4.74 -22.00004,-4.82 -14.17,-0.16 -19.04,1.7 -31,9.000004 z" />
+     d="m 20.5952,15.23999 c 0,0 0,-7.00001 0,-7.00001 0,0 -14,0 -14,0 0,0 0,38.00001 0,38.00001 0,0 38,0 38,0 0,0 0,-13 0,-13 0,0 -23,0 -23,0 3.45,-5.51 5.8,-8.35 12,-10.91 12.3,-5.07 28.13,-3.71 36.35,7.91 2.6801,3.78 3.5301,7.46 3.6401,12 0.32,13.54 -6.9201,24.11 -20.9901,25.82 -5.81,0.7 -12.75,0.25 -18,-2.49 -4.27,-2.23 -6.33,-5.24 -10,-5.98 0,0 -18,1.65 -18,1.65 3.72,9.5 13.43,15.75 23,18.36 16.61,4.53 40.08,3.44 52.8201,-9.53 16.57,-16.88 12.54,-48.05 -8.82,-59.01001 -5.9801,-3.07 -15.2801,-4.74 -22.0001,-4.82 -14.17,-0.16 -19.04,1.7 -31,9.00001 z" />
 </svg>
