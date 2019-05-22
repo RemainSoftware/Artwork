@@ -10,7 +10,7 @@ Remain owns all 'Remain' related Trademarks and related rights.
 
 If you have any questions regarding this Policy, wish to report an infringement of our
 trademarks, or wish to use a Remain trademark in a way not explicitly provided for in
-this Policy, then contact us by sending an email to mailto:info@remainsoftware.com.
+this Policy, then contact us by sending an email to info@remainsoftware.com.
 
 ## Our goals in establishing this Policy are:
 
@@ -36,7 +36,7 @@ Derivative works of the Trademarks are not allowed.
 The Remain logos and production specifications are available from 
 https://github.com/remainsoftware/artwork/. Use of these logos must follow these specifications.
 Use of the Trademarks is not permitted unless authorized in writing by Remain. Permission
-to use the Trademarks can be obtained by sending you request to mailto:info@remainsoftware.com.
+to use the Trademarks can be obtained by sending you request to info@remainsoftware.com.
 Permission to use with conditions will be replied back to you. Permission to use is only valid
 in the context described in the request.
 
