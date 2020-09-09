@@ -13,6 +13,15 @@ The logo may include the words Remain and Software as follows:
 
 <img src="https://github.com/RemainSoftware/Artwork/raw/master/Remain/remainlogo_with_text.png" width="128"/>
 
+# TD/OMS
+TD/OMS Logo font is Orbitron. 
+
+<img src="https://github.com/RemainSoftware/Artwork/raw/master/TDOMS/logoh80.png" width="128"/>
+
+The bullet in logo color in white. See colors below.
+
+<img src="https://github.com/RemainSoftware/Artwork/raw/master/TDOMS/bulleth80.png" width="128"/>
+
 # Gravity
 The full logo of Remain's workflow solution contains three main elements. The first Element is the word "Gravity". The G is an artistic expression of an arrow indicating a cycle in a workflow.
 
