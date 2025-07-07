@@ -1,1 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="chatlogo.svg"
+   inkscape:export-filename="dialogimgchatlogo@2x.png"
+   inkscape:export-xdpi="51.453831"
+   inkscape:export-ydpi="51.453831"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="139.5"
+     inkscape:cy="153.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid495"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.8815;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect9021"
+       width="136.55464"
+       height="136.55464"
+       x="-1.0404955"
+       y="-2.2437465"
+       inkscape:export-filename="chatlogob1024.png"
+       inkscape:export-xdpi="548.84088"
+       inkscape:export-ydpi="548.84088" />
+    <path
+       id="rect2986-7"
+       style="fill:#c8c442;fill-rule:evenodd;stroke:#000000;stroke-width:7.78003;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 50.426873,85.163882 -0.03798,6.570523 c 0,0 14.641391,0.05484 33.93713,-0.09232 l 24.468207,33.173235 -0.5986,-33.134522 17.96251,-0.199544 V 32.035077 l -6.09468,0.06593 0.13477,53.743115 z"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       id="rect2986"
+       style="opacity:1;fill:#c8c442;fill-rule:evenodd;stroke:#000000;stroke-width:7.78003;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 7.8811435,11.85065 H 107.80052 L 107.60093,71.898695 49.713652,71.457254 25.245181,104.6309 25.84394,71.495834 7.8811435,71.296247 Z"
+       sodipodi:nodetypes="cccccccc" />
+    <ellipse
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7.78003;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3041"
+       cx="38.223896"
+       cy="38.94743"
+       rx="3.5282269"
+       ry="3.6693556" />
+    <ellipse
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7.78003;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3041-5"
+       cx="79.574715"
+       cy="38.94743"
+       rx="3.5282269"
+       ry="3.6693556" />
+    <ellipse
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7.78003;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3041-1"
+       cx="58.969872"
+       cy="38.94743"
+       rx="3.5282269"
+       ry="3.6693556" />
+  </g>
+</svg>
